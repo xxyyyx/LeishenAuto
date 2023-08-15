@@ -12,7 +12,7 @@
 
 
 ### 1. Fork 仓库
-
+ 
 - 项目地址：[LeishenAuto](https://github.com/himcs/LeishenAuto/)
 - 点击右上角`Fork`到自己的账号下
 
